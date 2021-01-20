@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.10.3",
     "axios": "^0.19.2",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "locomotive-scroll": "^3.3.9",
     "nuxt": "^2.0.0",
     "nuxt-pdf": "^1.0.4",
